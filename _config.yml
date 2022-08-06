@@ -41,7 +41,6 @@ minima:
   social_links:
     twitter: arunprakashml
     github: arunslb123
-    youtube: arunslb123
 
 # Set this to true to get LaTeX math equation support
 use_math: True
